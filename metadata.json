@@ -1,7 +1,10 @@
 {
-    "shell-version": ["3.4", "3.6", "3.8", "3.10", "3.12"],
-    "uuid": "shade-inactive-windows@hepaajan.iki.fi",
-    "name": "Shade Inactive Windows",
-    "description": "Make inactive windows darker",
-    "url": "https://github.com/hepaajan/shade-inactive-windows"
+    "description": "Make inactive windows darker", 
+    "cinnamon-version": [
+        "3.4"
+    ], 
+    "url": "https://github.com/hepaajan/shade-inactive-windows", 
+    "dangerous": false, 
+    "name": "Shade Inactive Windows", 
+    "uuid": "shade-inactive-windows@rsw0x"
 }
